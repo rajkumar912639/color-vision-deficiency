@@ -13,7 +13,7 @@ To run this project, you will need the following:
 
 You can install the dependencies using pip:
 
-```bash
+``bash
 pip install -r requirements.txt
 You will also need to download the horse2zebra dataset from Kaggle and place it in the input folder.
 # Usage
